@@ -1,5 +1,5 @@
 # UIRecreationChallenge
-The challenge is to recreate the image shown using vanilla css/html, and without compilation. (20 minutes)
+The challenge is to recreate the image shown using vanilla css/html, and without compilation. You have 20 minutes.
 
 ## Instructions 
 1. create a folder <teamname>/
