@@ -56,6 +56,7 @@ p {
     height: 16px;
     width: 16px;
     background-color: #00FFFF;
+    border-radius: 50%;
 }
 
 .bio {
