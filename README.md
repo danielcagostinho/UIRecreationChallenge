@@ -8,7 +8,7 @@ The challenge is to recreate the image shown using vanilla css/html, and without
 
 
 ## Rules
-1. no <img> 
+1. no ```<img> ```
 2. no checking of any html files during challenge (via browser or other means)
 3. vscode simple notepad only, no html/css syntax extensions
 4. googling for documentation (css/html) is allowed
