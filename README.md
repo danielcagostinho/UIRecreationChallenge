@@ -12,4 +12,5 @@ The challenge is to recreate the image shown using vanilla css/html, and without
 2. no checking of any html files during challenge (via browser or other means)
 3. vscode simple notepad only, no html/css syntax extensions
 4. googling for documentation (css/html) is allowed
-5. final test will be judged by eye, opening ```index.html``` in chrome browser
+5. no copying of large sections of code (i.e. googling "google css sheet")
+6. final test will be judged by eye, opening ```index.html``` in chrome browser
