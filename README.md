@@ -2,8 +2,8 @@
 The challenge is to recreate the image shown using vanilla css/html, and without compilation. You have 20 minutes.
 
 ## Instructions 
-1. create a folder <teamname>/
-2. create ```index.html``` and any supporting html/css files. 
+1. create a folder ```<teamname>/```
+2. create ```index.html``` and any supporting html/css files inside your folder. 
 3. when complete, commit directly to master (or get it PR approved by someone). 
 
 
