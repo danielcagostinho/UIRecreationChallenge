@@ -4,7 +4,7 @@ The challenge is to recreate the image shown using vanilla css/html, and without
 ## Instructions 
 1. create a folder <teamname>/
 2. create ```index.html``` and any supporting html/css files. 
-3. when complete, commit directly to master. 
+3. when complete, commit directly to master (or get it PR approved by someone). 
 
 
 ## Rules
